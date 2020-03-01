@@ -6,7 +6,6 @@ import random
 import re
 import sys
 
-
 #
 # Complete the 'calculateAmount' function below.
 #
