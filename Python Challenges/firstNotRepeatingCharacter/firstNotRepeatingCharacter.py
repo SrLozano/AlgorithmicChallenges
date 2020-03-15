@@ -27,7 +27,7 @@ while(1):
     a = input("Enter a string ")
     if len(a) != 0:
         result = firstNotRepeatingCharacter(a)
-        print("The fisrt not repeating character is: " + str(result))
+        print("The first not repeating character is: " + str(result))
         print("")
     else:
         print("The string can not be empty")
