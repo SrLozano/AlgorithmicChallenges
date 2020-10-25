@@ -8,7 +8,7 @@ Given an array of integers, calculate the ratios of its elements that are positi
 With the input:
 $$arr=[1, 1, 0, -1, -1]$$
 
-el output must be:
+the output must be:
 $$0.400000$$
 $$0.400000$$
 $$0.200000$$
