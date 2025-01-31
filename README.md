@@ -1,14 +1,36 @@
-# HackerRankChallenges 🧠💻
-A set of HackerRank Challenges I use to improve my coding skills
+# Coding Challenges 🧠💻
 
-# Run the code ⚙️
-## Python 🐍
-Python Challenges are executed by: python3 myProgram, where myProgram is the name of the program.
+Welcome to my repository of LeetCode-style coding challenges! This is where I practice and refine my problem-solving skills across different programming languages.
 
-## C 🧑🏻‍💻
-C Challenges are executed by :
+## 🚀 Getting Started
+This repository contains coding challenges implemented in multiple languages. Below are the instructions to run the solutions.
 
- 1. gcc -o name myProgram.c 
- 2. ./name
+### 🐍 Running Python Challenges
+To execute a Python solution, use the following command:
+```sh
+python3 myProgram.py
+```
+Replace `myProgram.py` with the actual filename of the challenge you want to run.
 
-Where name is the name the executable receives and myProgram.c is the name of the program that we are trying to run.
+### 💻 Running C Challenges
+To compile and run a C solution, follow these steps:
+
+1. Compile the program using `gcc`:
+   ```sh
+   gcc -o name myProgram.c
+   ```
+   - Replace `name` with the desired name for the executable.
+   - Replace `myProgram.c` with the filename of the challenge.
+
+2. Execute the compiled program:
+   ```sh
+   ./name
+   ```
+
+## 📌 Notes
+- These challenges are meant for self-improvement and practice.
+- Feel free to contribute by adding new challenges or optimizing existing solutions.
+- Feedback and discussions are always welcome!
+
+Happy coding! 🚀
+
